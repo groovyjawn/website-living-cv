@@ -1,3 +1,3 @@
-# Personal Website
+## Professional Website (Portfolio)
 
-## www.sessinger.com
+### www.sessinger.com
